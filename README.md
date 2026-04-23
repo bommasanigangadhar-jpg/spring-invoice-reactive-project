@@ -1,2 +1,1 @@
-# spring-invoice-reactive-project
-Spring Reactive programming and API
+# Spring Reactive programing
